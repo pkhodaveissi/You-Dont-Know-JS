@@ -1,9 +1,9 @@
-# You Don't Know JS: Up & Going
-# Foreword
+# جی اس بلد نیستی
+# پیشگفتار
 
-What was the last new thing you learned?
+آخرین چیز جدیدی که یاد گرفتی چی بود؟
 
-Perhaps it was a foreign language, like Italian or German. Or maybe it was a graphics editor, like Photoshop. Or a cooking technique or woodworking or an exercise routine. I want you to remember that feeling when you finally got it: the lightbulb moment. When things went from blurry to crystal clear, as you mastered the table saw or understood the difference between masculine and feminine nouns in French. How did it feel? Pretty amazing, right?
+شاید یه زبون خارجی بوده، مثل ایتالیایی یا آلمانی. یا یه نرم افزار ویرایش تصویر، مثل فوتوشاپ. یا یه تکنیک آشپزی یا نجاری یا یه روتین ورزشی. اون حسی که بهت دست داد وقتی قلق کار رو گرفتی، اون بشکن موفقیت، میخوام اون حس رو به یاد بیاری. وقتی مه کنار رفت و همه چیز روشن شد برات، مثل لحظه ای که کار با اره رو میزی رو یاد گرفتی یا فرق فعل های مونث و مذکر تو فرانسوی رو متوجه شدی. چه حسی داشت؟ باحال بود، مگه نه؟ 
 
 Now I want you to travel back a little bit further in your memory to right before you learned your new skill. How did *that* feel? Probably slightly intimidating and maybe a little bit frustrating, right? At one point, we all did not know the things that we know now and that’s totally OK; we all start somewhere. Learning new material is an exciting adventure, especially if you are looking to learn the subject efficiently.
 
